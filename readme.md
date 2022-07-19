@@ -12,7 +12,7 @@ I created it to improve my coding skills by building realistic projects.
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [CSS properties used](#some-CSS-properties-used)
+  - [CSS properties used](#CSS-properties-used)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
