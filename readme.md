@@ -1,8 +1,8 @@
 
 # Leon-Template
 
-This is a solution to the [3-column preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-). 
-Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a project for creating a  [Leon Template] with using HTML and CSS.
+I created it to improve my coding skills by building realistic projects.
 
 ## Table of contents
 
