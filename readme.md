@@ -13,6 +13,7 @@ I created it to improve my coding skills by building realistic projects.
 - [My process](#my-process)
   - [Built with](#built-with)
   - [CSS properties used](#CSS-properties-used)
+  - [Layout](#Layout)
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
@@ -72,7 +73,7 @@ Users should be able to:
 - Position
 - Mobile-first workflow
 
-#### Layout
+### Layout
 The designs were created to the following widths:
 
 - Small screen: 768px
